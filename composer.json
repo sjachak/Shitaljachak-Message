@@ -1,0 +1,14 @@
+{
+    "name": "shitaljachak/message",
+    "description": "This is my first custom package",
+    "type": "MIT",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shitaljachak",
+            "email": "shital.jachak@smartdatainc.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
